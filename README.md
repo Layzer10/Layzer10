@@ -22,6 +22,7 @@ I enjoy **Databases**, **Web development** and **Java**.
 ## 🚀 Frameworks / Libraries / Tools
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,symfony,git,wordpress&perline=7)
+<br>
 ![JAVAFX](https://img.shields.io/badge/JAVAFX-ffffff?style=for-the-badge&color=2b6fb9)
 
 
