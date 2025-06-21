@@ -13,7 +13,7 @@ I enjoy **Databases**, **Web development** and **Java**.
 
 ## 👾​ Languages
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,cpp,js,html,css,plsql,php&perline=7)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,php,plsql,js,html,css,cpp&perline=7)
 
 ## 💾 Databases
 
