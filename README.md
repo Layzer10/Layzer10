@@ -1,6 +1,6 @@
 
 # 🔭 About me 
-I'm Layzer10, a 20 yo. french student who's learning computer science.
+I'm Esteban Cazor, a 20 yo. french student who's learning computer science.
 
 I enjoy **Databases**, **Web development** and **Java**.
 
